@@ -9,7 +9,7 @@ We know how to use work with each and Git, Jenkins independently. What if you wa
 
 ### Part-01 : Adding steps for Integration
 ### Steps to create Jenkin job
-1. Login to Jenkins console
+1. Login to Jenkins consol
 1. Create *Jenkins job*, Fill the following details,
    - *Source Code Management:*
       - Repository: `https://github.com/ValaxyTech/hello-world.git`
