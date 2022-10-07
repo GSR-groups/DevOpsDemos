@@ -26,6 +26,7 @@
    tomcatup
    ```
   #### Check point :
+  #
 access tomcat application from browser on port 8080  
  - http://<Public_IP>:8080
 
